@@ -5,9 +5,9 @@ more specifically Chisel3, for the bachelor thesis. They prove to impart a gener
 with Chisel.
 
 ## General Information
-Designs can be found in /main
+Designs can be found in /src/main
 
-The corresponding Testbenches can be found in /test
+The corresponding Testbenches can be found in /src/test
 
 The Testbenches are a mix of Scala and Chisel. Their purpose is the validation of a Chisel Design (module)
 Therefore, the Testbench can set input signals (poke), control the clock (step & reset) and retrieve output
